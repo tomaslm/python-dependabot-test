@@ -18,11 +18,11 @@
     "default": {
         "belogging": {
             "hashes": [
-                "sha256:7a39f14c6865e14c61432d7ceeeaf28fa09dcf13e1ca5690cb14e1cfa199fd41",
-                "sha256:f01b77a032e822ea718810c258190bf2ad5aa7322a3e12c41f082df214457ab1"
+                "sha256:1fe042d8e8cc89ca748e415e0eaeba105d3541ec9e8e0838639c78f3d6da68eb",
+                "sha256:1feac2b6a1772a3dfaabddcb29039dead51d96309802ca91d5b03e4424ed2942"
             ],
             "index": "pypi",
-            "version": "==0.1.0"
+            "version": "==0.1.3"
         },
         "certifi": {
             "hashes": [
