@@ -89,12 +89,6 @@
             ],
             "version": "==3.1.0"
         },
-        "cov-core": {
-            "hashes": [
-                "sha256:4a14c67d520fda9d42b0da6134638578caae1d374b9bb462d8de00587dba764c"
-            ],
-            "version": "==1.15.0"
-        },
         "coverage": {
             "hashes": [
                 "sha256:0fc4e0d91350d6f43ef6a61f64a48e917637e1dcfcba4b4b7d543c628ef82c2d",
@@ -301,10 +295,11 @@
         },
         "pytest-cov": {
             "hashes": [
-                "sha256:bcb6a7e63f5fdba1aa510a2265fe8cc34d3b854358cf3c1881ef9293a63ad85f"
+                "sha256:1a629dc9f48e53512fcbfda6b07de490c374b0c83c55ff7a1720b3fccff0ac87",
+                "sha256:6e6d18092dce6fad667cd7020deed816f858ad3b49d5b5e2b1cc1c97a4dba65c"
             ],
             "index": "pypi",
-            "version": "==1.8.0"
+            "version": "==2.10.0"
         },
         "pytest-deadfixtures": {
             "hashes": [
