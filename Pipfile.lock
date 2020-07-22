@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "8da3e9458c8aafc671e54dca8fe0a93e2171537cd620e3e5afc046b4d14a4a30"
+            "sha256": "99df360133d7a7112ed6e2f9bcddcca06c986c307a3cbe7d12fdb66bcd6f445a"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -164,10 +164,10 @@
         },
         "ipdb": {
             "hashes": [
-                "sha256:dce2112557edfe759742ca2d0fee35c59c97b0cc7a05398b791079d78f1519ce"
+                "sha256:d6f46d261c45a65e65a2f7ec69288a1c511e16206edb2875e7ec6b2f66997e78"
             ],
             "index": "pypi",
-            "version": "==0.12.0"
+            "version": "==0.13.3"
         },
         "ipython": {
             "hashes": [
@@ -281,7 +281,6 @@
                 "sha256:c203ec8783bf771a155b207279b9bccb8dea02d8f0c9e5f8ead507bc3246ecc1",
                 "sha256:ef9d7589ef3c200abe66653d3f1ab1033c3c419ae9b9bdb1240a85b024efc88b"
             ],
-            "markers": "python_version >= '2.6' and python_version not in '3.0, 3.1, 3.2, 3.3'",
             "version": "==2.4.7"
         },
         "pytest": {
@@ -344,7 +343,6 @@
                 "sha256:30639c035cdb23534cd4aa2dd52c3bf48f06e5f4a941509c8bafd8ce11080259",
                 "sha256:8b74bedcbbbaca38ff6d7491d76f2b06b3592611af620f8426e82dddb04a5ced"
             ],
-            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3'",
             "version": "==1.15.0"
         },
         "toml": {
